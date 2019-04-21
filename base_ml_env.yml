@@ -1,13 +1,15 @@
 
-name: myenvname
+name: base_ml_env
 dependencies:
   - numpy
   - pandas
   - scipy
-  - sklearn
-  - hdbscan
+  - scikit-learn
   - matplotlib
   - seaborn
   - Pillow
   - ipython
   - jupyter
+  - pip
+  - pip:
+    - hdbscan
