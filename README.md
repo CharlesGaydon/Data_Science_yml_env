@@ -1,4 +1,4 @@
-# Data_Science_yaml_env
+# Data_Science_yml_env
 Basic yaml and instruction to start a new Data Science repository
 
 Source : [Documentation for managing env in Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-file-manually)
