@@ -1,0 +1,13 @@
+
+name: myenvname
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - sklearn
+  - hdbscan
+  - matplotlib
+  - seaborn
+  - Pillow
+  - ipython
+  - jupyter
